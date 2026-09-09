@@ -1,0 +1,20 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "I'm learning about NPM",
+  "homepage": "https://github.com/KaroliinaF/full-stack-web-development-bootcamp-projects#readme",
+  "bugs": {
+    "url": "https://github.com/KaroliinaF/full-stack-web-development-bootcamp-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaroliinaF/full-stack-web-development-bootcamp-projects.git"
+  },
+  "license": "ISC",
+  "author": "Karoliina Fernandes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
